@@ -1,21 +1,21 @@
-#Project name: Kosi-Baby-Step-in-Data-Analysis
+# Project name: Kosi-Baby-Step-in-Data-Analysis
 
 
 ....
-#Project objective
+# Project objective
 
 
 
 ....
-#Project sourcing
+# Project sourcing
 
 
 
 .....
-#Project transformation
+# Project transformation
 
 
 
 
 .....
-#Findings and recommendations
+# Findings and recommendations
