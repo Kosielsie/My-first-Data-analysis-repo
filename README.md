@@ -1,13 +1,13 @@
-# Project name: Kosi-Baby-Step-in-Data-Analysis
+# Project name: My-first-Data-analysis-repo
 
  
-# Project objective
+# Project Objective:Problem Statement
 
 
-# Project sourcing
+# Project Sourcing
 
 
-# Project transformation
+# Project Transformation
 
 
-# Findings and recommendations
+# Findings and Recommendations
